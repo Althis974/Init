@@ -1,6 +1,6 @@
 # INIT
 
-# Introduction
+## Introduction
 
   Slash16 est un réseau de personnes passionnées par l’administration système et réseau et/ou le développement opérationnel (DevOps).
 
@@ -13,6 +13,6 @@
 
   Avec ceci, vous aurez le droit à des vidéos dans votre e-learning pour comprendre les notions essentielles dont vous aurez besoin.
 
-# Objectifs
+## Objectifs
 
   Ce premier projet, init vous permettera de découvrir les commandes de base système et réseau ainsi que les nombreux services utilisés sur une machine serveur, ainsi que quelques idées de scripts pouvant être utiles au quotidien d’un adminsys.
