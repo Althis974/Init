@@ -4,7 +4,7 @@
 
 find /etc -name "crontab" -mtime 0 > /home/rlossy/modif.txt
 FILE="/etc/crontab"
-MODIF=$(<home/rlossy/modif.txt)
+MODIF=$(</home/rlossy/modif.txt)
 MAIL_ADMIN="romeolossy@gmail.com"
 if [ "${FILE}" == "${MODIF}" ]; then
 	BODY="Alert, the file ${FILE} has been modified";
